@@ -1,7 +1,7 @@
 # COVID-19-R-NAUGHT
 
 #Download the project zip file and expand OR Clone it using 
->git clone <github project URL>
+>git clone https://github.com/sabawi/COVID-19-R-NAUGHT.git
   
 
 ## Install requirements.txt
